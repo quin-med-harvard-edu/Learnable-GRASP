@@ -1,0 +1,3 @@
+id,k22n,k3n,coilprofile,k_samples,dcf,total_spokes
+#sub-1,/fileserver/fastscratch/cemre/VIDA_MRUs/MRU021622/sub_1/k22n,/fileserver/fastscratch/cemre/VIDA_MRUs/MRU021622/sub_1/k3n,/fileserver/fastscratch/cemre/VIDA_MRUs/MRU021622/sub_1/coilprofile,/fileserver/fastscratch/cemre/VIDA_MRUs/MRU021622/sub_1/k_samples,/fileserver/fastscratch/cemre/VIDA_MRUs/MRU021622/sub_1/dcf,2600
+sub-1,/home/ch233932/PycharmProjects/learnable_grasp/data/k22n,/home/ch233932/PycharmProjects/learnable_grasp/data/k3n,/home/ch233932/PycharmProjects/learnable_grasp/data/coilprofile,/home/ch233932/PycharmProjects/learnable_grasp/data/k_samples,/home/ch233932/PycharmProjects/learnable_grasp/data/dcf,2600

@@ -1,0 +1,3 @@
+Data is taken from: /fileserver/fastscratch/cemre/VIDA_MRUs/MRU021622/MRU021622.csv
+Params | reject:True, compress:True
+Subject-1: name:Rissky_Noah, mrn:5736640
